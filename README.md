@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eden-annora
-- 👀 I’m interested in ... trying to learn about framworks, libraries and architectures the hard way, by making them all myself
+- 👀 I’m interested in ... trying to learn about frameworks, libraries and architectures the hard way, by making them all myself
 - 🌱 I’m currently learning ... i started with python, now learning javascript!, ive got my eyes set on ruby next!
 - 💞️ I’m looking to collaborate on ... my WIP game TheNautilus, if you do game FX, music or pixelart id love to chat!
 - 📫 How to reach me ... you can find me at Eden <3#0506 on discord!
